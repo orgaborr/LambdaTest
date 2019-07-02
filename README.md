@@ -1,0 +1,1 @@
+Simple Java project to try how Lambda expression works.
